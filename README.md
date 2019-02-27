@@ -1,5 +1,5 @@
 # Cox-PASNet
-### Cox-PASNet is a pathway-based sparse deep neural network for survival analysis. 
+### Cox-PASNet is a pathway-baseda sparse deep neural network for survival analysis. 
 # Get Started
 ## Example Datasets
 To get started, you need to download example datasets from URLs as below:
