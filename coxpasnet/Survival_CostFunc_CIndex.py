@@ -17,6 +17,7 @@ def R_set(x):
 
 def neg_par_log_likelihood(pred, ytime, yevent):
 	'''Calculate the average Cox negative partial log-likelihood.
+	Note that this function requires the input data have been sorted in descending order.
 	Input:
 		pred: linear predictors from trained model.
 		ytime: true survival time from load_data().
